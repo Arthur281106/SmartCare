@@ -4,7 +4,7 @@ const kits = [
     { nome: "Kit Infantil", descricao: "Bandagens coloridas,Soro Fisiológico, Termômetro digital, Livro interativo.", 
         imagem: 'Kit Infantil.jpg',preco: "A partir de R$ 39,90", link: 'https://www.instagram.com/p/DHzFEzdv47j/' },
     { nome: "Kit Fitness", descricao: "Bandagens, Gel para alivio Muscular, Soluções para pequenos machucados.", 
-        imagem: '',preco: "A partir de R$ 39,90", link: 'https://www.instagram.com/p/DHzFh1TP4pH/' },
+        imagem: 'Kit Fitness.jpg',preco: "A partir de R$ 39,90", link: 'https://www.instagram.com/p/DHzFh1TP4pH/' },
     { nome: "Kit Idoso", descricao: "Curativo, Termômetro, Aparelho de pressão, Dextro, Medicamento para Diabete.", 
         imagem: 'Kit Idoso.jpg',preco: "A partir de R$ 39,90", link: 'https://www.instagram.com/p/DHzGCKqP6gl/' }
 ];
